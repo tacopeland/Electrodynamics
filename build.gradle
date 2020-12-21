@@ -41,8 +41,8 @@ libsDirName = "../output"
 distsDirName = "../output"
 
 version = "${config.minecraft_version}-${config.version_major}.${config.version_minor}.${config.version_revision}-${config.version_build}"
-group= "physica"
-archivesBaseName = "PhysicaAll"
+group= "electrodynamics"
+archivesBaseName = "ElectrodynamicsAll"
 sourceCompatibility = targetCompatibility = JavaVersion.VERSION_1_8
 
 minecraft {
@@ -81,7 +81,7 @@ task coreJar(type: Jar) {
     baseName = 'PhysicaCore'
 
     from zipTree(jar.outputs.getFiles().getSingleFile()).matching {
-        exclude 'physica/nuclear/**', 'physica/forcefield/**'
+        exclude 'electrodynamics/nuclear/**', 'electrodynamics/forcefield/**'
     }
 }
 
@@ -89,7 +89,7 @@ task nuclearJar(type: Jar) {
     baseName = 'PhysicaNuclearPhysics'
 
     from zipTree(jar.outputs.getFiles().getSingleFile()).matching {
-        include 'physica/nuclear/**'
+        include 'electrodynamics/nuclear/**'
     }
 }
 
@@ -97,7 +97,7 @@ task forcefieldJar(type: Jar) {
     baseName = 'PhysicaForcefield'
 
     from zipTree(jar.outputs.getFiles().getSingleFile()).matching {
-        include 'physica/forcefield/**'
+        include 'electrodynamics/forcefield/**'
     }
 }
 

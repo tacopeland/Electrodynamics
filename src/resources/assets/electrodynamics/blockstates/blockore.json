@@ -1,0 +1,59 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "electrodynamics:basiccube"
+	},
+	"variants": {
+		"state": {
+			"copper": {
+				"textures": {
+					"all": "electrodynamics:blocks/orecopper"
+				}
+			},
+			"tin": {
+				"textures": {
+					"all": "electrodynamics:blocks/oretin"
+				}
+			},
+			"silver": {
+				"textures": {
+					"all": "electrodynamics:blocks/oresilver"
+				}
+			},
+			"lead": {
+				"textures": {
+					"all": "electrodynamics:blocks/orelead"
+				}
+			},
+			"uraninite": {
+				"textures": {
+					"all": "electrodynamics:blocks/oreuraninite"
+				}
+			},
+			"thorianite": {
+				"textures": {
+					"all": "electrodynamics:blocks/orethorianite"
+				}
+			},
+			"monazite": {
+				"textures": {
+					"all": "electrodynamics:blocks/oremonazite"
+				}
+			},
+			"vanadinite": {
+				"textures": {
+					"all": "electrodynamics:blocks/orevanadinite"
+				}
+			},
+			"sulfur": {
+				"textures": {
+					"all": "electrodynamics:blocks/oresulfur"
+				}
+			}
+		},
+		"inventory": [
+			{
+			}
+		]
+	}
+}

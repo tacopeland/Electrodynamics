@@ -3,11 +3,11 @@ package universalelectricity.prefab.tile.base;
 import java.util.Arrays;
 import java.util.List;
 
+import electrodynamics.core.common.network.PacketHandler;
+import electrodynamics.core.common.network.PacketTileEntity;
 import io.netty.buffer.ByteBuf;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.util.EnumFacing;
-import physica.core.common.network.PacketHandler;
-import physica.core.common.network.PacketTileEntity;
 import universalelectricity.api.tile.ITileNetwork;
 import universalelectricity.api.tile.ITileRotatable;
 

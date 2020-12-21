@@ -1,0 +1,6 @@
+{
+    "parent": "electrodynamics:item/standarditem",
+	"textures": {
+		"layer0": "electrodynamics:items/blend/blendsuperconductive"
+	}
+}

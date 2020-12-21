@@ -1,0 +1,62 @@
+#### TILES
+tile.electrodynamicsnuclearphysics:accelerator.name=Particle Accelerator
+tile.electrodynamicsnuclearphysics:assembler.name=Quantum Assembler
+tile.electrodynamicsnuclearphysics:centrifuge.name=Gas Centrifuge
+tile.electrodynamicsnuclearphysics:chemicalBoiler.name=Chemical Boiler
+tile.electrodynamicsnuclearphysics:chemicalExtractor.name=Chemical Extractor
+tile.electrodynamicsnuclearphysics:fissionReactor.name=Fission Reactor
+tile.electrodynamicsnuclearphysics:fusionReactor.name=Fusion Reactor
+tile.electrodynamicsnuclearphysics:radioisotopeGenerator.name=Radioisotope Thermoelectric Generator
+tile.electrodynamicsnuclearphysics:neutronCaptureChamber.name=Neutron Capture Chamber
+tile.electrodynamicsnuclearphysics:turbine.name=Steam Turbine
+tile.electrodynamicsnuclearphysics:siren.name=Siren
+tile.electrodynamicsnuclearphysics:thermometer.name=Thermometer
+tile.electrodynamicsnuclearphysics:controlRod.name=Control Rod
+tile.electrodynamicsnuclearphysics:electromagnet.0.name=Electromagnet
+tile.electrodynamicsnuclearphysics:electromagnet.1.name=Electromagnetic Glass
+tile.electrodynamicsnuclearphysics:electromagnet.2.name=Plasma Containment Block
+tile.electrodynamicsnuclearphysics:electromagnet.3.name=Plasma Containment Glass
+tile.electrodynamicsnuclearphysics:plasma.name=Plasma
+tile.electrodynamicsnuclearphysics:uraniumOre.name=Uranium Ore
+tile.electrodynamicsnuclearphysics:insertableControlRod.name=Insertable Control Rod
+tile.electrodynamicsnuclearphysics:reactorControlPanel.name=Reactor Control Panel
+tile.electrodynamicsnuclearphysics:meltedReactor.name=Melted Reactor
+tile.electrodynamicsnuclearphysics:radioactiveGrass.name=Radioactive Grass
+tile.electrodynamicsnuclearphysics:radioactiveStone.name=Radioactive Stone
+tile.electrodynamicsnuclearphysics:radioactiveDirt.name=Radioactive Dirt
+#### GUI
+tile.electrodynamicsnuclearphysics:accelerator.gui=Particle Accelerator
+tile.electrodynamicsnuclearphysics:centrifuge.gui=Gas Centrifuge
+tile.electrodynamicsnuclearphysics:chemicalBoiler.gui=Chemical Boiler
+tile.electrodynamicsnuclearphysics:chemicalExtractor.gui=Chemical Extractor
+tile.electrodynamicsnuclearphysics:fissionReactor.gui=Fission Reactor
+tile.electrodynamicsnuclearphysics:neutronCaptureChamber.gui=Neutron Capture Chamber
+tile.electrodynamicsnuclearphysics:reactorControlPanel.gui=Control Panel
+tile.electrodynamicsnuclearphysics:radioisotopeGenerator.gui=Radioisotope Generator
+#### ITEMS
+item.yellowcake.name=Yellowcake
+item.uranium.name=Uranium
+item.fuelCell.name=Fuel Cell
+item.heavyWaterCell.name=Heavy Water Cell
+item.deuteriumCell.name=Deuterium Cell
+item.tritiumCell.name=Tritium Cell
+item.antimatterCell100Milligram.name=Antimatter Cell
+item.antimatterCell1Gram.name=Antimatter Cell
+item.darkmatterCell.name=Dark Matter Cell
+item.emptyElectromagneticCell.name=Empty Electromagnetic Cell
+item.emptyQuantumCell.name=Empty Quantum Cell
+item.geigerCounter.name=Geiger Counter
+item.HazmatHelmet.name=Hazmat Suit Helmet
+item.HazmatPlate.name=Hazmat Suit Chestplate
+item.HazmatLegs.name=Hazmat Suit Leggings
+item.HazmatBoots.name=Hazmat Suit Boots
+item.ReinforcedHazmatHelmet.name=Reinforced Hazmat Suit Helmet
+item.ReinforcedHazmatPlate.name=Reinforced Hazmat Suit Chestplate
+item.ReinforcedHazmatLegs.name=Reinforced Hazmat Suit Leggings
+item.ReinforcedHazmatBoots.name=Reinforced Hazmat Suit Boots
+#### FLUIDS
+fluid.electrodynamicsnuclearphysics:uranium_hexafluoride=Uranium Hexafluoride
+#### TABS
+itemGroup.electrodynamicsnuclearphysicsNuclearPhysics=electrodynamics - Nuclear Physics
+#### POTIONS
+potion.radiation=Radiation

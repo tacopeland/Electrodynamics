@@ -1,0 +1,30 @@
+{
+	"type": "forge:ore_shapeless",
+	"ingredients": [
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustTin"
+		}
+	],
+	"result": {
+		"item": "electrodynamics:blendbase",
+		"data": 7,
+		"count": 5
+	}
+}

@@ -3,12 +3,12 @@ package universalelectricity.prefab.tile.electric;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
+import electrodynamics.core.common.utility.InventoryUtility;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.util.EnumFacing;
 import net.minecraftforge.common.capabilities.Capability;
 import net.minecraftforge.items.CapabilityItemHandler;
 import net.minecraftforge.items.IItemHandlerModifiable;
-import physica.core.common.utility.InventoryUtility;
 
 public abstract class TileElectricInventoryMachine extends TileElectricMachine {
 	private static String NBT_SLOTS = "slots";

@@ -1,0 +1,43 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"state": {
+			"electricfurnace": {
+				"model": "electrodynamics:electricfurnace"
+			},
+			"electricfurnacerunning": {
+				"model": "electrodynamics:electricfurnacerunning"
+			},
+			"coalgenerator": {
+				"model": "electrodynamics:coalgenerator"
+			},
+			"coalgeneratorrunning": {
+				"model": "electrodynamics:coalgeneratorrunning"
+			},
+			"mineralcrusher": {
+				"model": "electrodynamics:mineralcrusher"
+			},
+			"mineralgrinder": {
+				"model": "electrodynamics:mineralgrinder"
+			}
+		},
+		"facing": {
+			"north": {
+				"y": 270
+			},
+			"south": {
+				"y": 90
+			},
+			"west": {
+				"y": 180
+			},
+			"east": {
+				"y": 0
+			}
+		},
+		"inventory": [
+			{
+			}
+		]
+	}
+}

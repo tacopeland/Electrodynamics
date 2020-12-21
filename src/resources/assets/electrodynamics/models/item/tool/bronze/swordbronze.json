@@ -1,0 +1,6 @@
+{
+    "parent": "electrodynamics:item/standarditemheld",
+	"textures": {
+		"layer0": "electrodynamics:items/tool/bronze/swordbronze"
+	}
+}

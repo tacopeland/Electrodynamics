@@ -1,0 +1,16 @@
+#### TILES
+electrodynamicsMissiles.explosive.condensive.name=Condensive Explosive
+electrodynamicsMissiles.explosive.repulsive.name=Repulsive Explosive
+electrodynamicsMissiles.explosive.attractive.name=Attractive Explosive
+electrodynamicsMissiles.explosive.shrapnel.name=Shrapnel Explosive
+electrodynamicsMissiles.explosive.anvil.name=Anvil Explosive
+electrodynamicsMissiles.explosive.incendiary.name=Incendiary Explosive
+#### ITEMS
+electrodynamicsMissiles.grenade.condensive.name=Condensive Explosive
+electrodynamicsMissiles.grenade.repulsive.name=Repulsive Explosive
+electrodynamicsMissiles.grenade.attractive.name=Attractive Explosive
+electrodynamicsMissiles.grenade.shrapnel.name=Shrapnel Explosive
+electrodynamicsMissiles.grenade.anvil.name=Anvil Explosive
+electrodynamicsMissiles.grenade.incendiary.name=Incendiary Explosive
+#### TABS
+itemGroup.electrodynamicsmissilesMissiles=electrodynamics - Missiles
